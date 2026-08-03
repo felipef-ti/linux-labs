@@ -16,3 +16,15 @@ cat
 less
 head
 tail
+whoami
+id
+groups
+adduser
+useradd
+passwd
+usermod
+userdel
+groupadd
+groupdel
+su
+sudo
