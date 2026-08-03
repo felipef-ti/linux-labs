@@ -1,1 +1,91 @@
+# Comandos Básicos
 
+## pwd
+
+Mostra o diretório atual.
+
+```bash
+pwd
+```
+
+---
+
+## ls
+
+Lista arquivos e diretórios.
+
+```bash
+ls
+```
+
+```bash
+ls -la
+```
+
+```bash
+ls -lh
+```
+
+---
+
+## cd
+
+Navega entre diretórios.
+
+```bash
+cd Documentos
+```
+
+```bash
+cd ..
+```
+
+---
+
+## mkdir
+
+Cria diretórios.
+
+```bash
+mkdir projetos
+```
+
+---
+
+## touch
+
+Cria arquivos.
+
+```bash
+touch arquivo.txt
+```
+
+---
+
+## rm
+
+Remove arquivos.
+
+```bash
+rm arquivo.txt
+```
+
+---
+
+## cp
+
+Copia arquivos.
+
+```bash
+cp origem.txt destino.txt
+```
+
+---
+
+## mv
+
+Move ou renomeia arquivos.
+
+```bash
+mv arquivo.txt novo_nome.txt
+```
