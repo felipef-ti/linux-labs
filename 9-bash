@@ -1,1 +1,18 @@
-
+pwd
+ls
+ls -la
+ls -lh
+cd
+mkdir
+touch
+rm
+cp
+mv
+clear
+history
+man
+echo
+cat
+less
+head
+tail
